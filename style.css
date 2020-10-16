@@ -1,0 +1,45 @@
+body {
+	background-color: Beige;
+	border-style: double;
+	border-radius: 50px;
+	border-color: RosyBrown;
+	padding-bottom: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+	padding-right: 25px;
+	text-align: justify;
+}
+header {
+	padding-top: 30px;
+	padding-bottom: 10px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 19pt;
+	font-weight: bold;
+	text-align: center;
+	color: PaleVioletRed;
+	text-shadow: 5px 4px 3px DarkSeaGreen;
+}
+article {
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+h2 {
+	color: DarkCyan;
+}
+footer {
+	color: White;
+	background-color: BurlyWood;
+	opacity: 0.6;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	padding-top: 40px;
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+}
